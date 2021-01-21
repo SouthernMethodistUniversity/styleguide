@@ -1,4 +1,6 @@
-# Contributing to the curriculum
+[<<< Previous](module_checklist.md) 
+
+# Contributing to the workshops/curriculum
 
 There are many ways to contribute back to the curriculum, from creating issues that suggest improvements to specific modules to creating entirely new sessions. This section describes various modes of interaction with the DHRI curriculum materials, including forking repositories to your account and creating issues and pull requests.
 
@@ -22,7 +24,7 @@ To complete your issue, click the green button labelled `Submit New Issue`.
 
 ## Forking
 
-By deffault, you will not have access to directly modify repositories in the DHRI curriculum. In the world of free and open source software, this is common—usually, only the creator of a repository and certain core contributors can add and modify files in a repository. However, this doesn't mean that you cannot modify the curriculum and make it your own.
+By default, you will not have access to directly modify repositories in the workshop curriculum. In the world of free and open source software, this is common—usually, only the creator of a repository and certain core contributors can add and modify files in a repository. However, this doesn't mean that you cannot modify the curriculum and make it your own.
 
 If you wish to create your own version of the curriculum for your own workshop or Institute, the first step is to **fork** the relevant repository. That means to make a copy of it under your own account on GitHub, one in which you have access to modify files. Once you have forked a repository, you can create a new lesson based on it. Because the curriculum is under a Creative Commons license, you may use any module as the basis for a new lesson and share freely, as long as you provide attribution to Graduate Center Digital Initiatives and share under a the same license.
 
@@ -97,3 +99,9 @@ After reviewing, click the green `Create Pull Request` button. You will have a c
 After adding a descriptive message, click the green button to finalize the pull request. You will be taken to a view of the completed pull request.
 
 Now it's up to the repository owner if they wish to accept the request, initiate a conversation with you, or—which sometimes happens—ignore or reject your request. In the case of the DHRI curriculum, we may accept some requests right away, and ask for clarification on other occasions.
+
+
+[<<< Previous](module_checklist.md) 
+
+-----
+[Return to introduction](https://github.com/SouthernMethodistUniversity/styleguide)

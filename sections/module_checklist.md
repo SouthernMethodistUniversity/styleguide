@@ -1,3 +1,5 @@
+[<<< Previous](style_guide.md) | [Next >>>](contributing.md)   
+
 # Module Checklist
 
 Every module in the curriculum should have these elements:
@@ -20,3 +22,5 @@ Every module in the curriculum should have these elements:
 - If many topics or headings are included in the tutorial (more than 6), the markdown files other than the README.md should be placed in a folder within the repository labelled `sections` or similar and linked from there. (Having too many files in the files section on GitHub looks messy and is visually overwhelming.)
 - If applicable, provide a `resources` section with links to sources, books, tools, or other tutorials at the end of your markdown tutorial.
 - While you have the option to create tutorials under your own name on GitHub, when finished or when you reach a major milestone with your tutorial, fork it to the [GCDF](https://github.com/GCDigitalFellows) account on GitHub for reference by future Fellows.
+
+[<<< Previous](style_guide.md) | [Next >>>](contributing.md)  
