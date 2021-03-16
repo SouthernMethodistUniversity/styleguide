@@ -25,7 +25,9 @@ What you will find in this Repository
 
 [Collaboration checklist](/sections/collab_checklist.md)
 
-[Style guide: Structure, Scope, Scaffolding](/sections/style_guide.md)  
+[Pedagogy: Structure, Scope, Scaffolding](/sections/pedagogy.md)  
+
+[Style guide: Markdown](/sections/style_guide.md)  
 
 [Contributing to the curriculum](/sections/module_checklist.md)  
 

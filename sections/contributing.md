@@ -1,4 +1,4 @@
-[<<< Previous](module_checklist.md) 
+[<<< Previous](review.md) 
 
 # Contributing to the workshops/curriculum
 
@@ -50,7 +50,7 @@ A pull request allows you to make a specific suggestion or set of suggestions on
 
 To do a pull request takes a few steps:
 
-1. FOrk the repository as above.
+1. Fork the repository as above.
 2. Clone the forked repository.
 3. Make the changes you intend to propose locally.
 4. Add, commit, and push your changes to the forked repository.;
@@ -101,7 +101,7 @@ After adding a descriptive message, click the green button to finalize the pull 
 Now it's up to the repository owner if they wish to accept the request, initiate a conversation with you, or—which sometimes happens—ignore or reject your request. In the case of the DHRI curriculum, we may accept some requests right away, and ask for clarification on other occasions.
 
 
-[<<< Previous](module_checklist.md) 
+[<<< Previous](review.md) 
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/styleguide)
