@@ -27,11 +27,11 @@ What you will find in this Repository
 
 [Pedagogy: Structure, Scope, Scaffolding](/sections/pedagogy.md)  
 
-[Style guide: Markdown](/sections/style_guide.md)  
+[Style guide: Grammer, Github & Markdown](/sections/style_guide.md)  
 
-[Contributing to the curriculum](/sections/module_checklist.md)  
+[Reviewing ](/sections/review.md)  
 
-[Contributing to the workshops/curriculum using github](/sections/contributing.md)
+[Contributing & Commenting on the workshops using github](/sections/contributing.md)
 
 -----
 
