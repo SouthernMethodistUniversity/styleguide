@@ -27,7 +27,7 @@ What you will find in this Repository
 
 [Pedagogy: Structure, Scope, Scaffolding](/sections/pedagogy.md)  
 
-[Style guide: Grammer, Github & Markdown](/sections/style_guide.md)  
+[Style guide: Grammar, Github & Markdown](/sections/style_guide.md)  
 
 [Reviewing ](/sections/review.md)  
 
