@@ -100,11 +100,6 @@ After adding a descriptive message, click the green button to finalize the pull 
 
 Now it's up to the repository owner if they wish to accept the request, initiate a conversation with you, or—which sometimes happens—ignore or reject your request. In the case of the DHRI curriculum, we may accept some requests right away, and ask for clarification on other occasions.
 
-# REVIEW Process
-
-define Structure 
-Creations of these workshops is collaborative and review is an iterative process. 
-ADD review section (also in pedagogy, review as a whole, review as lesson also as institute)
 
 [<<< Previous](review.md) 
 

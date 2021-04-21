@@ -4,11 +4,11 @@
 This repository contains information on collaborative  practices for workshops. 
 
 * Collaboration Checklist  
-    - Checklist for planning and promotion of workshops, includes Marketing & Calendaring reminders
+    - Checklist for planning and promotion of workshops, includes Marketing & Calendaring reminders.
 
 * Style Guide  
     - How to write modules consistent with the style guide.  
-    - Learning prerequisites and objectives
+    - Learning prerequisites and objectives.
 
 * Contributing to the workshops  
     - How to use Git and GitHub to "fork" curriculum modules to your own account.  
@@ -23,19 +23,19 @@ What you will find in this Repository
 
 -----
 
-[Content checklist](/sections/content.md)
+[Content](/sections/content.md)
 
 [Pedagogy: Structure, Scope, Scaffolding](/sections/pedagogy.md)  
 
-[Style guide: Grammar, Github & Markdown](/sections/style_guide.md)  
+[Style guide: Github & Markdown](/sections/style_guide.md)  
 
-[Reviewing ](/sections/review.md)  
+[Reviewing: Pedagogy, Content and Grammar](/sections/review.md)  
 
-[Contributing & Commenting on the workshops using github](/sections/contributing.md)
+[Contributing & Commenting on the workshops GitHub](/sections/contributing.md)
 
 -----
 
-* Modified by Rafia Mirza, based on CUNY DHRI style guide.   
+* Modified by Rafia Mirza, based on CUNY DHRI style guide. Edited by Joanna Russell Bliss.  
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 
