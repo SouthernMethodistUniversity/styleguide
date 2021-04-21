@@ -1,12 +1,14 @@
-[<<< Previous](collab_checklist.md) | [Next >>>](style_guide.md)   
+[<<< Previous](content.md) | [Next >>>](style_guide.md)   
 
 # Pedagogy
 
-In this section we discuss how the Structure (Scope, Scaffolding, Purpose) supports pedagogical goals. 
+In this section we discuss how the *structure* (Scope, Scaffolding, Purpose) supports pedagogical goals. 
 
 ## Structure
 
-Three structural elements are important for an effective DRI session: scoping, scaffolding, and purpose. Scoping is the art of choosing what—and especially what *not*—to include in a session. Scaffolding is the process of building later skill development on prior skill development. Purpose provides an answer to the participant who asks, "Why should I care about this?"
+Three structural elements are important for an effective DHRI session: scoping, scaffolding, and purpose. * Scoping is the art of choosing what—and especially what *not*—to include in a session.
+* Scaffolding is the process of building later skill development on prior skill development. 
+* Purpose provides an answer to the participant who asks, "Why should I care about this?"
 
 ### Scope
 
@@ -30,8 +32,5 @@ The most common question in a workshop is, "How does this relate to my research?
 
 Working toward creating a specific artifact in your lesson can also help with scaffolding and scoping. If you know exactly what students will need to learn to create, for example, a course website, that makes it easier to leave out concepts that don't directly relate to that goal. It also suggests discrete steps and challenges that students must engage before completing the deliverable, often leading to a more intuitive lesson structure.
 
-### Review
-As our goal is that our lessons build on each on each other we will review lessons for content and where they fit in to other workshops. 
-(expand this section) 
 
-[<<< Previous](collab_checklist.md) | [Next >>>](style_guide.md)   
+[<<< Previous](content.md) | [Next >>>](style_guide.md)   

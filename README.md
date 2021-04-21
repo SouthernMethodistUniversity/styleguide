@@ -3,17 +3,17 @@
 
 This repository contains information on collaborative  practices for workshops. 
 
-* Collaboration Checklist 
-Checklist for planning and promotion of workshops, includes Marketing & Calendaring reminders
+* Collaboration Checklist   
+- Checklist for planning and promotion of workshops, includes Marketing & Calendaring reminders
 
 * Style Guide
-How to write modules consistent with the style guide.
-Learning prerequisites and objectives
+- How to write modules consistent with the style guide.
+- Learning prerequisites and objectives
 
 * Contributing to the workshops 
-How to use Git and GitHub to "fork" curriculum modules to your own account.
-How to create issues in curriculum modules.
-How to make pull requests to contribute "upstream"—back to the curriculum.
+- How to use Git and GitHub to "fork" curriculum modules to your own account.
+- How to create issues in curriculum modules.
+- How to make pull requests to contribute "upstream"—back to the curriculum.
 
 [Next >>>](/sections/collab_checklist.md)
 ----
@@ -23,11 +23,11 @@ What you will find in this Repository
 
 -----
 
-[Collaboration checklist](/sections/collab_checklist.md)
+[Content checklist](/sections/content.md)
 
 [Pedagogy: Structure, Scope, Scaffolding](/sections/pedagogy.md)  
 
-[Style guide: Grammer, Github & Markdown](/sections/style_guide.md)  
+[Style guide: Grammar, Github & Markdown](/sections/style_guide.md)  
 
 [Reviewing ](/sections/review.md)  
 
