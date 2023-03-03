@@ -1,4 +1,4 @@
-# **DRAFT** Styleguide for Workshops
+# **DRAFT** Styleguide for Collabertive Workshops
 ## This is the DRAFT style guide for collaborative workshops between OIT & the Libraries at SMU
 
 This repository contains information on collaborative  practices for workshops. 
