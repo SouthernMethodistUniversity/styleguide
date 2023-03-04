@@ -1,12 +1,17 @@
-[<<< Previous](content.md) | [Next >>>](style_guide.md)   
+
+[<<< Previous](https://github.com/SouthernMethodistUniversity/styleguide) | [Next >>>](style_guide.md)   
+
 
 # Pedagogy
 
 In this section we discuss how the *structure* (Scope, Scaffolding, Purpose) supports pedagogical goals. 
 
+* **LINK TO RELEVANT WORKSHOP PLANNING DOCS**
+
 ## Structure
 
-Three structural elements are important for an effective DHRI session: scoping, scaffolding, and purpose. * Scoping is the art of choosing what—and especially what *not*—to include in a session.
+Three structural elements are important for an effective session: scoping, scaffolding, and purpose. 
+* Scoping is the art of choosing what—and especially what *not*—to include in a session.
 * Scaffolding is the process of building later skill development on prior skill development. 
 * Purpose provides an answer to the participant who asks, "Why should I care about this?"
 
@@ -32,5 +37,12 @@ The most common question in a workshop is, "How does this relate to my research?
 
 Working toward creating a specific artifact in your lesson can also help with scaffolding and scoping. If you know exactly what students will need to learn to create, for example, a course website, that makes it easier to leave out concepts that don't directly relate to that goal. It also suggests discrete steps and challenges that students must engage before completing the deliverable, often leading to a more intuitive lesson structure.
 
+* Also see: 
+- [A better way to teach technical skills to a group](https://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
+- [Software Carpentry:Guiding principles](https://carpentries.github.io/curriculum-development/guiding-principles.html)
 
-[<<< Previous](content.md) | [Next >>>](style_guide.md)   
+
+
+__________ 
+
+[<<< Previous](https://github.com/SouthernMethodistUniversity/styleguide) | [Next >>>](style_guide.md)   

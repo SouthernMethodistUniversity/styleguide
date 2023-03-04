@@ -1,9 +1,11 @@
-[<<< Previous](review.md) 
+# Contributing content
 
-# Contributing to the workshops/curriculum
+There are many ways to contribute back to the curriculum, from creating issues that suggest improvements to specific modules to creating entirely new sessions. This section describes various modes of interaction with workshop materials, including forking repositories to your account and creating issues and pull requests.
 
-There are many ways to contribute back to the curriculum, from creating issues that suggest improvements to specific modules to creating entirely new sessions. This section describes various modes of interaction with the DHRI curriculum materials, including forking repositories to your account and creating issues and pull requests.
+* **DISCUSS PERMISSION PROCESS HERE**
 
+
+# For Reviewers  
 ## Creating Issues
 
 A critical and relatively accessible way to contribute back to the DHRI curriculum is to create an issue on GitHub. While reading DHRI curriculum on GitHub, you may encounter inconsistencies, typos, sections that need clarification, or typographical errors. When this happens, you can open an issue to let us know about the problem or potential improvement.
@@ -22,11 +24,12 @@ To complete your issue, click the green button labelled `Submit New Issue`.
 
 ![Image showing where the submit new issue button is. In the issue body box, the message reads "In loop.md, I noticed that the index of the example is flowers[1], which is not "rose" as the output indicates. Looks like it should be 0."](finish_new_issue.png).
 
+# For Workshop Creation and Reuse  [Permissions ??]
 ## Forking
 
-By default, you will not have access to directly modify repositories in the workshop curriculum. In the world of free and open source software, this is common—usually, only the creator of a repository and certain core contributors can add and modify files in a repository. However, this doesn't mean that you cannot modify the curriculum and make it your own.
+By default, you will not have access to directly modify repositories in the curriculum. In the world of free and open source software, this is common—usually, only the creator of a repository and certain core contributors can add and modify files in a repository. However, this doesn't mean that you cannot modify the curriculum and make it your own.
 
-If you wish to create your own version of the curriculum for your own workshop or Institute, the first step is to **fork** the relevant repository. That means to make a copy of it under your own account on GitHub, one in which you have access to modify files. Once you have forked a repository, you can create a new lesson based on it. Because the curriculum is under a Creative Commons license, you may use any module as the basis for a new lesson and share freely, as long as you provide attribution to Graduate Center Digital Initiatives and share under a the same license.
+If you wish to create your own version of the curriculum for your own workshop , the first step is to **fork** the relevant repository. That means to make a copy of it under your own account on GitHub, one in which you have access to modify files. Once you have forked a repository, you can create a new lesson based on it. Because the (majority of ) curriculum is under a Creative Commons license, you may use any module as the basis for a new lesson and share freely, as long as you provide attribution and share under the same license.
 
 To fork a repository to your account, click the `Fork` button at the top right of any repository on GitHub.
 
@@ -54,7 +57,7 @@ To do a pull request takes a few steps:
 2. Clone the forked repository.
 3. Make the changes you intend to propose locally.
 4. Add, commit, and push your changes to the forked repository.;
-5. Using the GitHub interface, initiate the pull requestA pull request allows you to make a specific suggestion or set of suggestions on a repository that can be accepted by the owner of that repository. Basically, you are creating a new version of the target repository, pointing to it, and saying, "This is what I think your repository should look like." If the owner of the target repository agress with you, they can click a button on GitHub that allows them to incorporate the changes.
+5. Using the GitHub interface, initiate the pull requestA pull request allows you to make a specific suggestion or set of suggestions on a repository that can be accepted by the owner of that repository. Basically, you are creating a new version of the target repository, pointing to it, and saying, "This is what I think your repository should look like." If the owner of the target repository agrees with you, they can click a button on GitHub that allows them to incorporate the changes.
 
 A pull request allows you to make a specific suggestion or set of suggestions on a repository that can be accepted by the owner of that repository. Basically, you are creating a new version of the target repository, pointing to it, and saying, "This is what I think your repository should look like." If the owner of the target repository agrees with you, they can click a button on GitHub that allows them to incorporate the changes.
 
@@ -101,7 +104,3 @@ After adding a descriptive message, click the green button to finalize the pull 
 Now it's up to the repository owner if they wish to accept the request, initiate a conversation with you, or—which sometimes happens—ignore or reject your request. In the case of the DHRI curriculum, we may accept some requests right away, and ask for clarification on other occasions.
 
 
-[<<< Previous](review.md) 
-
------
-[Return to introduction](https://github.com/SouthernMethodistUniversity/styleguide)
