@@ -15,7 +15,6 @@ What you will find in this Repository
 - Purpose
 
 # [Style guide:](/sections/style_guide.md)  
-* Style Guide  
 - Why Github (will link to GitHub lesson) 
 - Why Markdown & Markdown Formatting Guidelines
 - Jupyter book guidelines? TBD
@@ -25,7 +24,7 @@ What you will find in this Repository
 - License?
   
 # [Contributing content](/sections/contributing.md) 
-- PERMISSION PROCESS 
+- PERMISSION PROCESS ?
 - For Reviewers
   - Creating Issues
 - For Workshop Creation and Reuse [Permissions ??]
@@ -33,7 +32,7 @@ What you will find in this Repository
   -Creating a pull request
 
 # [Checklist](/sections/checklist.md)  
-- For Instructor 
+- For Instructor / Facilitator 
 - For Reviewing content
     - Pedagogy
     - Content 
