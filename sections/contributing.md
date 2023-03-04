@@ -1,3 +1,5 @@
+[<<< Previous](style_guide.md)   | [Next >>>](checklist.md)   
+
 # Contributing content
 
 There are many ways to contribute back to the curriculum, from creating issues that suggest improvements to specific modules to creating entirely new sessions. This section describes various modes of interaction with workshop materials, including forking repositories to your account and creating issues and pull requests.
@@ -103,4 +105,5 @@ After adding a descriptive message, click the green button to finalize the pull 
 
 Now it's up to the repository owner if they wish to accept the request, initiate a conversation with you, or—which sometimes happens—ignore or reject your request. In the case of the DHRI curriculum, we may accept some requests right away, and ask for clarification on other occasions.
 
-
+___
+[<<< Previous](style_guide.md)   | [Next >>>](checklist.md)   

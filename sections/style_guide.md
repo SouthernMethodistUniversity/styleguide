@@ -109,6 +109,8 @@ Currently, the workshops include two forms of attribution: "Session leader: ..."
 
 In regards to citing other academics, this curriculum aims to follow commonly held academic citation practices, in which direct quotations are formatted and cited as such, and when another scholar's ideas or concepts are referenced, a citation is also included. In general, the following citation information is provided: the author name(s), publication title, and publication date, and a hyperlink to the source, if applicable and within copyright.  
 
+## License?
+- Default to CC by SA? discuss
 
 
 

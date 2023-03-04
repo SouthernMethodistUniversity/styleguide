@@ -14,17 +14,24 @@ What you will find in this Repository
 - Scaffolding
 - Purpose
 
-[Style guide:](/sections/style_guide.md)  
+# [Style guide:](/sections/style_guide.md)  
 * Style Guide  
- - Why Github (will link to GitHub lesson) 
-  - Why Markdown & Markdown Formatting Guidelines
-  - Jupyter book guidelens? TBD
-  - When to choose between Binder and HPC for notebooks
-  - Accessability 
-  - Citations 
+- Why Github (will link to GitHub lesson) 
+- Why Markdown & Markdown Formatting Guidelines
+- Jupyter book guidelines? TBD
+- When to choose between Binder and HPC for notebooks
+- Accessability 
+- Citation & attribution 
+- License?
   
-[Contributing content](/sections/contributing.md) 
-- 
+# [Contributing content](/sections/contributing.md) 
+- PERMISSION PROCESS 
+- For Reviewers
+  - Creating Issues
+- For Workshop Creation and Reuse [Permissions ??]
+  - Forking
+  -Creating a pull request
+
 # [Checklist](/sections/checklist.md)  
 - For Instructor 
 - For Reviewing content
