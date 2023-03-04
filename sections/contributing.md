@@ -27,6 +27,11 @@ To complete your issue, click the green button labelled `Submit New Issue`.
 ![Image showing where the submit new issue button is. In the issue body box, the message reads "In loop.md, I noticed that the index of the example is flowers[1], which is not "rose" as the output indicates. Looks like it should be 0."](finish_new_issue.png).
 
 # For Workshop Creation and Reuse  [Permissions ??]
+
+* *Add info about teams*
+Repos will live in [Research Services and Workshops](https://github.com/orgs/SouthernMethodistUniversity/teams/research-services-and-workshops)
+@SouthernMethodistUniversity/research-services-and-workshops
+
 ## Forking
 
 By default, you will not have access to directly modify repositories in the curriculum. In the world of free and open source software, this is common—usually, only the creator of a repository and certain core contributors can add and modify files in a repository. However, this doesn't mean that you cannot modify the curriculum and make it your own.
