@@ -1,10 +1,11 @@
-# **DRAFT** Style Guide for Collaborative Workshops
-## This is the DRAFT style guide for collaborative workshops between OIT & the Libraries at SMU
 
-This repository contains information on collaborative practices for workshops. 
+ # Style Guide for Collaborative Workshops **DRAFT** 
 
+**This is the DRAFT style guide for collaborative workshops between OIT & the Libraries at SMU**
 
-What you will find in this Repository
+* This repository contains information on the collaborative and review practices for [Research Services and Workshops](https://github.com/orgs/SouthernMethodistUniversity/teams/research-services-and-workshops)
+
+* What you will find in this Repository
 
 -----
 
@@ -14,7 +15,7 @@ What you will find in this Repository
 - Scaffolding
 - Purpose
 
-# [Style guide:](/sections/style_guide.md)  
+# [Style guide](/sections/style_guide.md)  
 - Why Github (will link to GitHub lesson) 
 - Why Markdown & Markdown Formatting Guidelines
 - Jupyter book guidelines? TBD
@@ -46,4 +47,4 @@ What you will find in this Repository
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 
-* Our curriculum is based on the [Digital Research Institute (DHRI) Curriculum](https://github.com/DHRI-Curriculum)by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/). [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide). * <b>Their style guide can be found [here](https://github.com/DHRI-Curriculum/guide)</b> * Their curriculum is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
+* Based on the [Digital Research Institute (DHRI) Curriculum](https://github.com/DHRI-Curriculum) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/). [style guide.](https://github.com/DHRI-Curriculum/guide) Their curriculum is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
