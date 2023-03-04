@@ -1,10 +1,9 @@
 
- # Style Guide for Collaborative Workshops **DRAFT** 
+ # Style Guide for Workshops **DRAFT** 
 
 **This is the DRAFT style guide for collaborative workshops between OIT & the Libraries at SMU**
 
-* This repository contains information on the collaborative and review practices for [Research Services and Workshops](https://github.com/orgs/SouthernMethodistUniversity/teams/research-services-and-workshops)
-
+* This repository contains information on the collaborative and review practices for workshops offered by [the Research and Data Science Services Group in the Office of Information Technology](https://www.smu.edu/OIT/research) & [the Scholarship & Research team in SMU Libraries](https://www.smu.edu/libraries/scholarship)
 * What you will find in this Repository
 
 -----
