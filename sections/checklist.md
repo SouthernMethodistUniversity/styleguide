@@ -52,6 +52,7 @@ In regards to citing other academics, this curriculum aims to follow commonly he
 * What needs to be done to book the space?  
     * Make sure event is posted to [LibCal Events Calendar](https://libcal.smu.edu/calendar/fondren/?cid=-1&t=d&d=0000-00-00&cal=-1&inc=0)
     **DESCRIBE or LINK TO PROCESS**
+    * list of tags etc. 
 * [Current List of Workshops on Demand](https://www.smu.edu/libraries/fondren/services/workshops) 
 
 ## Marketing
