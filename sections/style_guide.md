@@ -86,9 +86,18 @@ Most formatting guidelines here are designed to make markdown source files more 
 
 # Jupyter book?
 * RULES?
+* To be used when: 
+  - combining multiple workshops
+  - maintained by multiple instructors
+  - into a sequence (Research Workshop Path) 
+* See example: Repo-[Introduction to TDM](https://github.com/SouthernMethodistUniversity/introTDM) & JB- [IntroTDM](https://southernmethodistuniversity.github.io/introTDM/index.html)
 
 # When to choose Binder or HPC for computational documents 
-* RULES?    
+* RULES?  
+* To be used when: 
+ - combining multiple computational notebooks 
+ - Introductory workshops where familiarity with HPC is not assumed (or required) 
+* See example: [Python Repo](https://github.com/SouthernMethodistUniversity/pythonintro)
 
 # Accessability  
 * * **HERE..link to accessibility style guide??**
