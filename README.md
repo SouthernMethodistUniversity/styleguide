@@ -14,7 +14,7 @@
 - Scaffolding
 - Purpose
 - SRI Research Workshop paths 
-- SRI Workshop planning resoucres **add resources worked on with J.M. when complete**
+- SRI Workshop planning resources **add resources worked on with J.M. when complete**
 
 # [Style guide](/sections/style_guide.md)  
 - Why Github (will link to GitHub lesson) 
