@@ -39,7 +39,7 @@ Working toward creating a specific artifact in your lesson can also help with sc
 
 # SRI Workshop planning resoucres
 * [Research Workshop paths](https://smu.box.com/s/4uwiueal0b9gnaqizncn7kbpwnxgf9dx)
-* **add resources worked on with J.M. when complete, iamges, handouts etc.**
+* **add resources worked on with J.M. when complete, handouts etc.**
 [SRS sequence](https://smu.box.com/s/5p73vwyygaai6n4lw4ci2b5g1lsuwal0)
 [SRS Workshop Lesson Plan](https://smu.box.com/s/5p73vwyygaai6n4lw4ci2b5g1lsuwal0)
 
