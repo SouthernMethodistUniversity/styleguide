@@ -24,6 +24,7 @@
 - Accessability 
 - Citation & attribution 
 - License?
+- Template
   
 # [Contributing content](/sections/contributing.md) 
 - PERMISSION PROCESS ?
