@@ -40,11 +40,9 @@ The most common question in a workshop is, "How does this relate to my research?
 Working toward creating a specific artifact in your lesson can also help with scaffolding and scoping. If you know exactly what students will need to learn to create, for example, a course website, that makes it easier to leave out concepts that don't directly relate to that goal. It also suggests discrete steps and challenges that students must engage before completing the deliverable, often leading to a more intuitive lesson structure.
 
 # SRI Workshop planning resoucres
-* [Research Workshop paths](https://smu.box.com/s/4uwiueal0b9gnaqizncn7kbpwnxgf9dx)
-* **add resources worked on with J.M. when complete, handouts etc.**
-[SRS sequence](https://smu.box.com/s/5p73vwyygaai6n4lw4ci2b5g1lsuwal0)
-[SRS Workshop Lesson Plan](https://smu.box.com/s/5p73vwyygaai6n4lw4ci2b5g1lsuwal0)
-
+- [SRI Research Workshop paths](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
+- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
 
 * Also see: 
 - [A better way to teach technical skills to a group](https://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
