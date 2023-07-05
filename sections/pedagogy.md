@@ -6,9 +6,10 @@
 
 In this section we discuss how the *structure* (Scope, Scaffolding, Purpose) supports pedagogical goals. 
 
-- [SRI Research Workshop paths](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Research Workshop paths](https://smu.box.com/s/gzi8ff8i618s5q11kc5uj76ki0ipvwnc)
 - [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
-- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48) 
+
 
 ## Structure
 
@@ -39,10 +40,10 @@ The most common question in a workshop is, "How does this relate to my research?
 
 Working toward creating a specific artifact in your lesson can also help with scaffolding and scoping. If you know exactly what students will need to learn to create, for example, a course website, that makes it easier to leave out concepts that don't directly relate to that goal. It also suggests discrete steps and challenges that students must engage before completing the deliverable, often leading to a more intuitive lesson structure.
 
-# SRI Workshop planning resoucres
-- [SRI Research Workshop paths](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+# [SRI Workshop planning resoucres](https://smu.box.com/s/s4pbbmbts54zpdobuvxvdhzhalkrm7kw)
+- [SRI Research Workshop paths](https://smu.box.com/s/gzi8ff8i618s5q11kc5uj76ki0ipvwnc)
 - [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
-- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48) 
 
 * Also see: 
 - [A better way to teach technical skills to a group](https://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/)
