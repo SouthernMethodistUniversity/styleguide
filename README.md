@@ -13,9 +13,9 @@
 - Scope
 - Scaffolding
 - Purpose
-- [SRI Research Workshop paths](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Research Workshop paths](https://smu.box.com/s/gzi8ff8i618s5q11kc5uj76ki0ipvwnc)
 - [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
-- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt43d47qiij110qqlm48)
 
 # [Style guide](/sections/style_guide.md)  
 - Why Github (will link to GitHub lesson) 
