@@ -6,7 +6,9 @@
 
 In this section we discuss how the *structure* (Scope, Scaffolding, Purpose) supports pedagogical goals. 
 
-* **LINK TO RELEVANT WORKSHOP PLANNING DOCS**
+- [SRI Research Workshop paths](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
+- [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
+- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48)
 
 ## Structure
 
