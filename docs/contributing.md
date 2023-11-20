@@ -14,17 +14,17 @@ A critical and relatively accessible way to contribute back to the DHRI curricul
 
 To open an issue, you must be in a GitHub repository. In the menu bar at the top center of the page, click the `Issues` tab.
 
-![Image showing that the Issues tab is in the center menu bar above the files in the GitHub repository](issues_tab.png).
+![Image showing that the Issues tab is in the center menu bar above the files in the GitHub repository](..images/issues_tab.png).
 
 After clicking the issues tab, you will see a screen with the currently open issues, if any. To create a new issue, click the large green button on the right of the page.
 
-![Image showing where the Create New Issue button is in the Issues tab on GitHub](new_issue.png)
+![Image showing where the Create New Issue button is in the Issues tab on GitHub](images/new_issue.png)
 
 On the New Issue page, there is only one required field—the issue title. However, consider leaving a detailed explanation of the issue, including which file you encountered it, if relevant. You can use markdown formatting in the body of your issue.
 
 To complete your issue, click the green button labelled `Submit New Issue`.
 
-![Image showing where the submit new issue button is. In the issue body box, the message reads "In loop.md, I noticed that the index of the example is flowers[1], which is not "rose" as the output indicates. Looks like it should be 0."](finish_new_issue.png).
+![Image showing where the submit new issue button is. In the issue body box, the message reads "In loop.md, I noticed that the index of the example is flowers[1], which is not "rose" as the output indicates. Looks like it should be 0."](/images/finish_new_issue.png).
 
 # For Workshop Creation and Reuse  [Permissions ??]
 

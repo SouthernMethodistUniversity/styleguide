@@ -8,7 +8,7 @@
 test change
 -----
 
-# [Pedagogy](/sections/pedagogy.md)  
+# [Pedagogy](/pedagogy.md)  
 - Structure
 - Scope
 - Scaffolding
@@ -17,7 +17,7 @@ test change
 - [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
 - [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48) 
 
-# [Style guide](/sections/style_guide.md)  
+# [Style guide](/style_guide.md)  
 - Why Github (will link to GitHub lesson) 
 - Why Markdown & Markdown Formatting Guidelines
 - Jupyter book guidelines? TBD
@@ -27,7 +27,7 @@ test change
 - License
 - Template
   
-# [Contributing content](/sections/contributing.md) 
+# [Contributing content](/contributing.md) 
 - PERMISSION PROCESS 
 - For Reviewers
   - Creating Issues
@@ -35,7 +35,7 @@ test change
   - Forking
   -Creating a pull request
 
-# [Checklist](/sections/checklist.md)  
+# [Checklist](/checklist.md)  
 - For Instructor / Facilitator 
 - For Reviewing content
     - Pedagogy
