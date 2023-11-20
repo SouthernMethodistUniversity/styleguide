@@ -5,7 +5,7 @@
 
 * This repository contains information on the collaborative and review practices for workshops offered by [the Research and Data Science Services Group in the Office of Information Technology](https://www.smu.edu/OIT/research) & [the Scholarship & Research team in SMU Libraries](https://www.smu.edu/libraries/scholarship)
 * What you will find in this Repository
-
+test change
 -----
 
 # [Pedagogy](/sections/pedagogy.md)  
