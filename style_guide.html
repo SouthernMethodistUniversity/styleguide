@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
 
   
-  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,9 +38,9 @@
     <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
-  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -66,7 +66,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="canonical" href="https://southernmethodistuniversity.github.io/styleguide/style_guide.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Contributing content" href="contributing.html" />
+    <link rel="next" title="Checklist" href="checklist.html" />
     <link rel="prev" title="Pedagogy" href="pedagogy.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -146,6 +146,7 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
   
 
 <a class="navbar-brand logo" href="index.html">
@@ -181,12 +182,8 @@ const thebe_selector_output = ".output, .cell_output"
 
 
 
+<li class="toctree-l1"><a class="reference internal" href="checklist.html">Checklist</a></li>
 
-<li class="toctree-l1"><a class="reference internal" href="contributing.html">Contributing content</a></li>
-
-
-
-<li class="toctree-l1"><a class="reference internal" href="checklist.html">Module Checklist (FOR INSTRUCTOR)</a></li>
 
 
 
@@ -344,6 +341,7 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
@@ -353,6 +351,7 @@ document.write(`
   </button>
 `);
 </script>
+
 
 <script>
 document.write(`
@@ -385,21 +384,18 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Style Guide</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-use-github">Why use Github?</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-use-markdown">Why use Markdown?</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Why Use Markdown?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-use-github">Why use Github?</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#markdown-formatting-guidelines">Markdown Formatting Guidelines</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#jupyter-book">Jupyter book?</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#when-to-choose-binder-or-hpc-for-computational-documents">When to choose Binder or HPC for computational documents</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#accessability">Accessability</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#jupyter-book">Jupyter book</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#binder">Binder</a></li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#attribution">Attribution</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#free-and-open-source-code">Free and Open Source Code</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#citation-practices-for-workshops">Citation practices for workshops</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License</a></li>
 </ul>
 </li>
 </ul>
@@ -414,58 +410,12 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <p><a class="reference internal" href="pedagogy.html"><span class="doc std std-doc">&lt;&lt;&lt; Previous</span></a> | <a class="reference internal" href="contributing.html"><span class="doc std std-doc">Next &gt;&gt;&gt;</span></a></p>
-<section class="tex2jax_ignore mathjax_ignore" id="style-guide">
+  <section class="tex2jax_ignore mathjax_ignore" id="style-guide">
 <h1>Style Guide<a class="headerlink" href="#style-guide" title="Permalink to this heading">#</a></h1>
-<p><strong>See Checklist for Required Content (ADD LINK)</strong></p>
 <section id="why-use-github">
 <h2>Why use Github?<a class="headerlink" href="#why-use-github" title="Permalink to this heading">#</a></h2>
-<ul class="simple">
-<li><p><em>link to lesson</em> etc add text
-<a class="reference external" href="https://www.smu.edu/OIT/Services/GitHub">Github at SMU</a></p></li>
-</ul>
-</section>
-<section id="why-use-markdown">
-<h2>Why use Markdown?<a class="headerlink" href="#why-use-markdown" title="Permalink to this heading">#</a></h2>
-<p><a class="reference external" href="https://www.markdownguide.org/getting-started/">Markdown</a> is a plain text markup format that is easy to read for both computers and humans. This is in contrast to, for example, HTML, which in its unrendered form is not enjoyable for humans to read. Compare the same document in HTML and markdown:</p>
-<p>HTML:</p>
-<div class="highlight-html notranslate"><div class="highlight"><pre><span></span><span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>My Book Report<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;&lt;</span><span class="nt">i</span><span class="p">&gt;</span>Persuasion<span class="p">&lt;/</span><span class="nt">i</span><span class="p">&gt;</span> is an <span class="p">&lt;</span><span class="nt">strong</span><span class="p">&gt;</span>excellent<span class="p">&lt;/</span><span class="nt">strong</span><span class="p">&gt;</span> book that I highly recommend for three reasons:<span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">ul</span><span class="p">&gt;</span>
-	<span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>It&#39;s a comeback story.<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
-	<span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>It has a catchy title.<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
-	<span class="p">&lt;</span><span class="nt">li</span><span class="p">&gt;</span>It&#39;s written by Jane Austen.<span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
-  <span class="p">&lt;/</span><span class="nt">ul</span><span class="p">&gt;</span>
-  <span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span>You can buy the book <span class="p">&lt;</span><span class="nt">a</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;http://www.bookmonopoly.com/persuasion&quot;</span><span class="p">&gt;</span>here.<span class="p">&lt;/</span><span class="nt">a</span><span class="p">&gt;&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
-</pre></div>
-</div>
-<p>Markdown:</p>
-<div class="highlight-markdown notranslate"><div class="highlight"><pre><span></span><span class="gh"># My Book Report</span>
-
-<span class="ge">*Persuasion*</span> is an <span class="gs">**excellent**</span> book that I highly recommend for three reasons:
-
-<span class="k">-</span><span class="w"> </span>It&#39;s a comeback story.
-<span class="k">-</span><span class="w"> </span>It has a catchy title.
-<span class="k">-</span><span class="w"> </span>It&#39;s written by Jane Austen.
-
-You can buy the book [<span class="nt">here</span>](<span class="na">http://www.bookmonopoly.com/persuasion</span>).
-</pre></div>
-</div>
-<p>When rendered by a browser, both of these documents look identical. However, the markdown document is considerably easier to read in its source form. While HTML is optimized to be readable by the computer, markdown is more balanced between the human and the machine.</p>
-<section id="id1">
-<h3>Why Use Markdown?<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
-<p>We use markdown for tutorials for a number of reasons:</p>
-<ul class="simple">
-<li><p>It’s exportable to other formats, such as HTML, PDF, and GitBook.</p></li>
-<li><p>It can be kept under version control—with Git, for example.</p></li>
-<li><p>It’s rendered automatically on GitHub.</p></li>
-<li><p>It can be read locally with a text editor.</p></li>
-<li><p>As plain text, it’s maintainable.</p></li>
-<li><p>It’s easy to embed code and images.</p></li>
-<li><p>It plays well with the tools we teach at the DRI.</p></li>
-</ul>
-<p>Many of markdown’s advantages come from the fact that it’s plain text. Tools that work well with code, such as version control, editors, and grep, also work well with markdown.</p>
-</section>
+<p><a class="reference external" href="https://www.smu.edu/OIT/Services/GitHub">Github at SMU</a>
+<a class="reference external" href="https://southernmethodistuniversity.github.io/git/">Github workshop</a></p>
 <section id="markdown-formatting-guidelines">
 <h3>Markdown Formatting Guidelines<a class="headerlink" href="#markdown-formatting-guidelines" title="Permalink to this heading">#</a></h3>
 <p>Most formatting guidelines here are designed to make markdown source files more readable. Others are designed to preserve semantics, which allow markdown to be rendered the same in different contexts.</p>
@@ -507,43 +457,20 @@ H2 (third section)</p></li>
 </section>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="jupyter-book">
-<h1>Jupyter book?<a class="headerlink" href="#jupyter-book" title="Permalink to this heading">#</a></h1>
+<h1><a class="reference external" href="https://jupyterbook.org/en/stable/intro.html">Jupyter book</a><a class="headerlink" href="#jupyter-book" title="Permalink to this heading">#</a></h1>
 <ul class="simple">
-<li><p>RULES?</p></li>
-<li><p>To be used when:</p>
-<ul>
-<li><p>combining multiple workshops</p></li>
-<li><p>maintained by multiple instructors</p></li>
-<li><p>into a sequence (Research Workshop Path)</p></li>
-</ul>
-</li>
-<li><p>See example: Repo-<a class="reference external" href="https://github.com/SouthernMethodistUniversity/introTDM">Introduction to TDM</a> &amp; JB- <a class="reference external" href="https://southernmethodistuniversity.github.io/introTDM/index.html">IntroTDM</a></p></li>
+<li><p>Use <strong>actions</strong> to autobuild</p></li>
+<li><p>In settings, select pages.</p></li>
+<li><p>Have the site built from the gh-pages branch, choose /root folder.</p></li>
+<li><p>Have a <a class="reference external" href="https://github.com/SouthernMethodistUniversity/styleguide/tree/main/.github/workflows">.github folder</a> for <a class="reference external" href="https://github.com/SouthernMethodistUniversity/styleguide/blob/main/.github/workflows/deploy.yml">deploy.yml.</a></p></li>
 </ul>
 </section>
-<section class="tex2jax_ignore mathjax_ignore" id="when-to-choose-binder-or-hpc-for-computational-documents">
-<h1>When to choose Binder or HPC for computational documents<a class="headerlink" href="#when-to-choose-binder-or-hpc-for-computational-documents" title="Permalink to this heading">#</a></h1>
+<section class="tex2jax_ignore mathjax_ignore" id="binder">
+<h1>Binder<a class="headerlink" href="#binder" title="Permalink to this heading">#</a></h1>
 <ul class="simple">
-<li><p>RULES?</p></li>
-<li><p>To be used when:</p></li>
-</ul>
-<ul class="simple">
-<li><p>combining multiple computational notebooks</p></li>
-<li><p>Introductory workshops where familiarity with HPC is not assumed (or required)</p></li>
-</ul>
-<ul class="simple">
+<li><p>When to choose Binder (over HPC) for computational documents</p></li>
+<li><p>To be used for introductory workshops where familiarity with HPC is not assumed (or required)</p></li>
 <li><p>See example: <a class="reference external" href="https://github.com/SouthernMethodistUniversity/pythonintro">Python Repo</a></p></li>
-</ul>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="accessability">
-<h1>Accessability<a class="headerlink" href="#accessability" title="Permalink to this heading">#</a></h1>
-<ul class="simple">
-<li><ul>
-<li><p><strong>HERE..link to accessibility style guide??</strong></p></li>
-</ul>
-</li>
-<li><p>write accessible documentation (<a class="reference external" href="https://developers.google.com/style/accessibility">https://developers.google.com/style/accessibility</a>)</p></li>
-<li><p>For example do not emphasize text by using color
-<a class="reference external" href="https://github.com/ikatyang/emoji-cheat-sheet">A markdown version emoji cheat sheet</a>. You can call attention using a <a class="reference external" href="https://github.com/ikatyang/emoji-cheat-sheet#geometric">geometric icons</a> such as :red_circle: or :yellow_circle:</p></li>
 </ul>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="attribution">
@@ -559,11 +486,10 @@ H2 (third section)</p></li>
 <p>In regards to citing other academics, this curriculum aims to follow commonly held academic citation practices, in which direct quotations are formatted and cited as such, and when another scholar’s ideas or concepts are referenced, a citation is also included. In general, the following citation information is provided: the author name(s), publication title, and publication date, and a hyperlink to the source, if applicable and within copyright.</p>
 </section>
 <section id="license">
-<h2>License?<a class="headerlink" href="#license" title="Permalink to this heading">#</a></h2>
+<h2>License<a class="headerlink" href="#license" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
-<li><p>Default to CC by SA? discuss</p></li>
+<li><p>Default to <a class="reference external" href="https://creativecommons.org/share-your-work/cclicenses/">CC BY-NC-SA</a></p></li>
 </ul>
-<p><a class="reference internal" href="pedagogy.html"><span class="doc std std-doc">&lt;&lt;&lt; Previous</span></a> | <a class="reference internal" href="contributing.html"><span class="doc std std-doc">Next &gt;&gt;&gt;</span></a></p>
 </section>
 </section>
 
@@ -595,7 +521,7 @@ H2 (third section)</p></li>
               
               
                 <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+                  
 <div class="prev-next-area">
     <a class="left-prev"
        href="pedagogy.html"
@@ -607,11 +533,11 @@ H2 (third section)</p></li>
       </div>
     </a>
     <a class="right-next"
-       href="contributing.html"
+       href="checklist.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Contributing content</p>
+        <p class="prev-next-title">Checklist</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -631,21 +557,18 @@ H2 (third section)</p></li>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Style Guide</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-use-github">Why use Github?</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-use-markdown">Why use Markdown?</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Why Use Markdown?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-use-github">Why use Github?</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#markdown-formatting-guidelines">Markdown Formatting Guidelines</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#jupyter-book">Jupyter book?</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#when-to-choose-binder-or-hpc-for-computational-documents">When to choose Binder or HPC for computational documents</a></li>
-<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#accessability">Accessability</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#jupyter-book">Jupyter book</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#binder">Binder</a></li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#attribution">Attribution</a><ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#free-and-open-source-code">Free and Open Source Code</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#citation-practices-for-workshops">Citation practices for workshops</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#license">License</a></li>
 </ul>
 </li>
 </ul>
@@ -670,6 +593,7 @@ By Rafia Mirza, & <a href="https://www.smu.edu/libraries/scholarship/srstudio.">
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
       © Copyright Creative Commons Attribution-ShareAlike 4.0 International License..
@@ -696,8 +620,8 @@ By Rafia Mirza, & <a href="https://www.smu.edu/libraries/scholarship/srstudio.">
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+  <script src="_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
 
   <footer class="bd-footer">
   </footer>

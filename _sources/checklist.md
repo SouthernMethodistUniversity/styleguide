@@ -1,5 +1,10 @@
 
-[<<< Previous](contributing.md) | [Back to README >>>](https://github.com/SouthernMethodistUniversity/styleguide)
+# Checklist 
+- For Instructor / Facilitator 
+- For Reviewing content
+    - Pedagogy
+    - Content 
+    - Grammar
 
 # Module Checklist (FOR INSTRUCTOR)
 
@@ -143,5 +148,3 @@ Every module in the curriculum should have these elements:
  - Have all links embedded in the module been tested and updated if necessary, or removed if necessary?
 
 
-
-[<<< Previous](contributing.md) | [Back to README >>>](https://github.com/SouthernMethodistUniversity/styleguide)
