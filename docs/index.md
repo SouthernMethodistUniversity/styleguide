@@ -1,10 +1,11 @@
 
  # Style Guide for Workshops **DRAFT** 
 
-**This is the DRAFT style guide for collaborative workshops between OIT & the Libraries at SMU**
+**This is the style guide for collaborative workshops between OIT & the Libraries at SMU**
 
 * This repository contains information on the collaborative and review practices for workshops offered by [the Research and Data Science Services Group in the Office of Information Technology](https://www.smu.edu/OIT/research) & [the Scholarship & Research team in SMU Libraries](https://www.smu.edu/libraries/scholarship)
 
+__________
 * This is to be used for reoccurring workshops that we offer:
  - [Introduction to Github](https://southernmethodistuniversity.github.io/git/)
  - [Introduction to TDM](https://southernmethodistuniversity.github.io/introTDM/index.html)
@@ -14,7 +15,10 @@
 
 -----
 
-* Modified by Rafia Mirza, based on CUNY DHRI style guide. Edited by Joanna Russell Bliss.  
+* Modified by Rafia Mirza, based on CUNY DHRI style guide. 
+
+- Previously:
+ - Edited by Joanna Russell Bliss.  
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 
