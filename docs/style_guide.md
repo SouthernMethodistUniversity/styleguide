@@ -1,59 +1,8 @@
-[<<< Previous](pedagogy.md) | [Next >>>](contributing.md)   
-
 # Style Guide 
 
-**See Checklist for Required Content (ADD LINK)**
-
 ## Why use Github?
-* *link to lesson* etc add text
 [Github at SMU](https://www.smu.edu/OIT/Services/GitHub)
-
-## Why use Markdown? 
-
-[Markdown](https://www.markdownguide.org/getting-started/) is a plain text markup format that is easy to read for both computers and humans. This is in contrast to, for example, HTML, which in its unrendered form is not enjoyable for humans to read. Compare the same document in HTML and markdown:
-
-HTML:
-
-```html
-<h1>My Book Report</h1>
-  <p><i>Persuasion</i> is an <strong>excellent</strong> book that I highly recommend for three reasons:</p>
-  <ul>
-	<li>It's a comeback story.</li>
-	<li>It has a catchy title.</li>
-	<li>It's written by Jane Austen.</li>
-  </ul>
-  <p>You can buy the book <a href="http://www.bookmonopoly.com/persuasion">here.</a></p>
-```
-
-Markdown:
-
-```markdown
-# My Book Report
-
-*Persuasion* is an **excellent** book that I highly recommend for three reasons:
-
-- It's a comeback story.
-- It has a catchy title.
-- It's written by Jane Austen.
-
-You can buy the book [here](http://www.bookmonopoly.com/persuasion).
-```
-
-When rendered by a browser, both of these documents look identical. However, the markdown document is considerably easier to read in its source form. While HTML is optimized to be readable by the computer, markdown is more balanced between the human and the machine.
-
-### Why Use Markdown?
-
-We use markdown for tutorials for a number of reasons:
-
-- It's exportable to other formats, such as HTML, PDF, and GitBook.
-- It can be kept under version control—with Git, for example.
-- It's rendered automatically on GitHub.
-- It can be read locally with a text editor.
-- As plain text, it's maintainable.
-- It's easy to embed code and images.
-- It plays well with the tools we teach at the DRI.
-
-Many of markdown's advantages come from the fact that it's plain text. Tools that work well with code, such as version control, editors, and grep, also work well with markdown.
+[Github workshop](https://southernmethodistuniversity.github.io/git/)
 
 ### Markdown Formatting Guidelines  
 
@@ -84,26 +33,18 @@ Most formatting guidelines here are designed to make markdown source files more 
 
 
 
-# Jupyter book?
-* RULES?
-* To be used when: 
-  - combining multiple workshops
-  - maintained by multiple instructors
-  - into a sequence (Research Workshop Path) 
-* See example: Repo-[Introduction to TDM](https://github.com/SouthernMethodistUniversity/introTDM) & JB- [IntroTDM](https://southernmethodistuniversity.github.io/introTDM/index.html)
+# [Jupyter book](https://jupyterbook.org/en/stable/intro.html)
+* Use **actions** to autobuild
+* In settings, select pages. 
+* Have the site built from the gh-pages branch, choose /root folder.
+* Have a [.github folder](https://github.com/SouthernMethodistUniversity/styleguide/tree/main/.github/workflows) for [deploy.yml.](https://github.com/SouthernMethodistUniversity/styleguide/blob/main/.github/workflows/deploy.yml)
 
-# When to choose Binder or HPC for computational documents 
-* RULES?  
-* To be used when: 
- - combining multiple computational notebooks 
- - Introductory workshops where familiarity with HPC is not assumed (or required) 
+
+# Binder
+* When to choose Binder (over HPC) for computational documents
+* To be used for introductory workshops where familiarity with HPC is not assumed (or required) 
 * See example: [Python Repo](https://github.com/SouthernMethodistUniversity/pythonintro)
 
-# Accessability  
-* * **HERE..link to accessibility style guide??**
-* write accessible documentation (https://developers.google.com/style/accessibility)
-* For example do not emphasize text by using color 
-[A markdown version emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet). You can call attention using a [geometric icons](https://github.com/ikatyang/emoji-cheat-sheet#geometric) such as :red_circle: or :yellow_circle:
 
 # Attribution
 ## Free and Open Source Code
@@ -118,9 +59,5 @@ Currently, the workshops include two forms of attribution: "Session leader: ..."
 
 In regards to citing other academics, this curriculum aims to follow commonly held academic citation practices, in which direct quotations are formatted and cited as such, and when another scholar's ideas or concepts are referenced, a citation is also included. In general, the following citation information is provided: the author name(s), publication title, and publication date, and a hyperlink to the source, if applicable and within copyright.  
 
-## License?
-- Default to CC by SA? discuss
-
-
-
-[<<< Previous](pedagogy.md) | [Next >>>](contributing.md)   
+## License
+- Default to [CC BY-NC-SA](https://creativecommons.org/share-your-work/cclicenses/)

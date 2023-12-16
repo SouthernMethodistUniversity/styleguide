@@ -4,44 +4,12 @@
 **This is the DRAFT style guide for collaborative workshops between OIT & the Libraries at SMU**
 
 * This repository contains information on the collaborative and review practices for workshops offered by [the Research and Data Science Services Group in the Office of Information Technology](https://www.smu.edu/OIT/research) & [the Scholarship & Research team in SMU Libraries](https://www.smu.edu/libraries/scholarship)
-* What you will find in this Repository
-test change
------
 
-# [Pedagogy](/pedagogy.md)  
-- Structure
-- Scope
-- Scaffolding
-- Purpose
-- [SRI Research Workshop paths](https://smu.box.com/s/gzi8ff8i618s5q11kc5uj76ki0ipvwnc)
-- [SRI Workshop Sequence](https://smu.box.com/s/hvfhxuprjf57of5a1kbr9znwapisdrq6)
-- [SRI Lesson Plan](https://smu.box.com/s/h33v2zirqovrt4e3d47qiij110qqlm48) 
-
-# [Style guide](/style_guide.md)  
-- Why Github (will link to GitHub lesson) 
-- Why Markdown & Markdown Formatting Guidelines
-- Jupyter book guidelines? TBD
-- When to choose between Binder and HPC for notebooks
-- Accessability 
-- Citation & attribution 
-- License
-- Template
-  
-# [Contributing content](/contributing.md) 
-- PERMISSION PROCESS 
-- For Reviewers
-  - Creating Issues
-- For Workshop Creation and Reuse [Permissions ??]
-  - Forking
-  -Creating a pull request
-
-# [Checklist](/checklist.md)  
-- For Instructor / Facilitator 
-- For Reviewing content
-    - Pedagogy
-    - Content 
-    - Grammar
-
+* This is to be used for reoccurring workshops that we offer:
+ - [Introduction to Github](https://southernmethodistuniversity.github.io/git/)
+ - [Introduction to TDM](https://southernmethodistuniversity.github.io/introTDM/index.html)
+ - [DHRI](https://southernmethodistuniversity.github.io/dhri/) 
+    - [Introduction to Python](https://github.com/SouthernMethodistUniversity/pythonintro)
 
 
 -----

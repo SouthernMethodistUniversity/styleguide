@@ -6,5 +6,4 @@ root: index
 chapters:
   - file: pedagogy
   - file: style_guide
-  - file: contributing
   - file: checklist
