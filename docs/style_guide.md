@@ -1,7 +1,7 @@
 # Style Guide 
 
 ## Template
-* This repo is a [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
+* After reading through these guidelines, use this repository as template for your workshop. 
 * Template repositories let users generate new repositories with the same directory structure and files. [Learn more about template repositories.](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## Github
