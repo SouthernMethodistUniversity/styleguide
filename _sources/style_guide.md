@@ -1,5 +1,9 @@
 # Style Guide 
 
+## Template
+* This repo is a [template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
+* Template repositories let users generate new repositories with the same directory structure and files. [Learn more about template repositories.](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
 ## Github
 * [Github workshop](https://southernmethodistuniversity.github.io/git/)
 
